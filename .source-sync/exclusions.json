@@ -1,0 +1,6 @@
+[
+  {
+    "path": ".git/",
+    "reason": "dependency-build-runtime-or-protected-input"
+  }
+]
